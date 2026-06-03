@@ -12,7 +12,7 @@
 
 
 
-我们的频道: t.me/MaskWechat3
+我们的频道: https://t.me/MaskWechat3
 
 ✨ 功能特性
 
