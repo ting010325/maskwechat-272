@@ -1,6 +1,6 @@
 id=com.lu.wxmask272
-version=2.7.2
-versionCode=100
+version=v2.7.2
+versionCode=1009
 author=死亡之舞 @MaskWechat3
 description=这是一个闭源 LSPosed 模块
 minApi=101
